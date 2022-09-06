@@ -1,0 +1,29 @@
+{
+  "name": "djsbase",
+  "version": "0.1.0",
+  "description": "A discord.js base (slash command & event handler)",
+  "main": "./src/index.js",
+  "types": "./typings/index.d.ts",
+  "scripts": {
+    "test": "echo \"not test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kidemis/djsbase.git"
+  },
+  "keywords": [
+    "discord.js",
+    "commandhandler",
+    "slashcommands",
+    "commands"
+  ],
+  "author": "kidemis",
+  "license": "LGPL-2.1-or-later",
+  "bugs": {
+    "url": "https://github.com/kidemis/djsbase/issues"
+  },
+  "homepage": "https://github.com/kidemis/djsbase#readme",
+  "dependencies": {
+    "discord.js": "^14.3.0"
+  }
+}
